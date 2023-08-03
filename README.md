@@ -46,7 +46,7 @@ To run this project, you will need to add the following environment variable to 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/soham4021/Products-REST-API
 ```
 
 Go to the project directory
