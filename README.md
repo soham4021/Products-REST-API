@@ -17,20 +17,20 @@ This repository contains a powerful and efficient RESTful API built with Node.js
 
 #### Get item
 
-```http
-  GET /api/products?id=product_id
-```
+
+      GET /api/products?id=product_id
+
 #### Test search : To test any route
 
-```http
-  GET /api/products/test
-```
+
+      GET /api/products/test
+
 
 #### Sort search results
 
-```http
-  GET /api/products?sort=parameter1,parameter2,...
-```
+
+      GET /api/products?sort=parameter1,parameter2,...
+
    
 
 
