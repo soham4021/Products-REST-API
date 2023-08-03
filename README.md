@@ -11,9 +11,9 @@ This repository contains a powerful and efficient RESTful API built with Node.js
 
 #### Get all items
 
-```http
-  GET /api/products
-```
+
+      GET /api/products
+
 
 #### Get item
 
@@ -67,10 +67,3 @@ Start the server
   npm run dev
 ```
 
-
-
-Start the server
-
-```bash
-  npm run dev
-```
