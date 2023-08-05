@@ -31,7 +31,17 @@ This repository contains a powerful and efficient RESTful API built with Node.js
 
       GET /api/products?sort=parameter1,parameter2,...
 
-   
+
+#### Limit search results
+
+
+      GET /api/products?limit=any_integer_value
+
+
+#### Specify search results
+
+
+      GET /api/products?name=product_name&company=company_name
 
 
 ## Environment Variables
