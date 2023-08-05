@@ -19,6 +19,7 @@ This repository contains a powerful and efficient RESTful API built with Node.js
 
 
       GET /api/products?id=product_id
+      
 
 #### Test search : To test any route
 
@@ -38,10 +39,16 @@ This repository contains a powerful and efficient RESTful API built with Node.js
       GET /api/products?limit=any_integer_value
 
 
-#### Specify search results
+#### Search by particular fields
 
 
       GET /api/products?name=product_name&company=company_name
+
+
+#### Specify search results
+
+
+      GET /api/products?select=attribute1,attribute2,....
 
 
 ## Environment Variables
